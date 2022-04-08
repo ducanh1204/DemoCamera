@@ -152,6 +152,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
     private String getBatchDirectoryName() {
         String app_folder_path = "";
         app_folder_path = Environment.getExternalStorageDirectory().toString() + "/Pictures";
